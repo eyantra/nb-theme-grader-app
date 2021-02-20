@@ -8,7 +8,7 @@ This repository contains the binaries of ***Grader App*** for ***Nirikshak Bot (
 
 
 
-## Prerequisites
+### Prerequisites
 
 The Grader App has been tested **only** on the following **64 bit OS**:
 
@@ -16,54 +16,60 @@ The Grader App has been tested **only** on the following **64 bit OS**:
 
 - ***Windows 7, 8 and 10***
 
-- ***macOS Big Sur v11.0.1***
+- ***macOS Big Sur v11.2.1***
 
 
 
-## Description
+### Description
 
 Following are the contents:
 
-- **task_5_grader_app** - This folder consists the binary files of Task 5 Grader App for **Linux**, **Windows** and **Macintosh** OS.
-  - Latest version is **[v1.0.1](https://github.com/eyantra/nb-theme-grader-app/releases/latest)**
+- **practice_task_grader_app** - This folder consists the binary files of ***Practice Task*** Grader App for **Linux**, **Windows** and **Macintosh** OS.
+  - Latest version is **[v1.1.0](https://github.com/eyantra/nb-theme-grader-app/releases/latest)**
+    - **`NB_Practice_Task_GUI-1.1.0.AppImage`**
+    - **`NB_Practice_Task_GUI_Setup-1.1.0.exe`**
+    - **`NB_Practice_Task_GUI-1.1.0.dmg`**
+
+- **task_5_grader_app** - This folder consists the binary files of ***Task 5*** Grader App for **Linux**, **Windows** and **Macintosh** OS.
+  - Latest version is **[v1.0.1](https://github.com/eyantra/nb-theme-grader-app/releases/tag/v1.0.1)**
     - **`NB_Task5_GUI-1.0.1_linux.AppImage`**
     - **`NB_Task5_GUI-1.0.1_win.exe`**
     - **`NB_Task5_GUI-1.0.1_mac.dmg`**
 
 
 
-## Releases
+### Releases
 
 Checkout [this](https://github.com/eyantra/nb-theme-grader-app/releases/latest) page to get the latest release of Grader App.
 
 
 
-## Changelog
+### Changelog
 
 Refer the [CHANGELOG](CHANGELOG.md) to know more on the recent updates and versions of the Grader App.
 
 
 
-## Bug or Issue Filing
+### Bug or Issue Filing
 
 Refer the [reference template](https://github.com/eyantra/nb-theme-grader-app/blob/master/.github/ISSUE_TEMPLATE/bug_report.md) for filing an [Issue](https://github.com/eyantra/nb-theme-grader-app/issues).
 
 
 
-## Contributors
+### Contributors
 
 - Theme Developers of Nirikshak Bot (NB) Theme
 - e-Yantra Team
 
 
 
-## License
+### License
 
 [MIT](LICENSE)
 
 
 
-## Copyright
+### Copyright
 
 &copy; e-Yantra 2021
 

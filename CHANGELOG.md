@@ -6,13 +6,21 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ---
 
+## 1.1.0 - 2021-02-20
+
+### Added
+
+- App for *auto grading* of *Practice Task*, tested on three OS - Linux, Windows and Macintosh.
+
+<br>
+
 ## 1.0.1 - 2021-02-02
 
 ### Fixed
 
 - Bug in resetting the height of Conveyor Belts, updated the App.
 
-
+<br>
 
 ## 1.0.0 - 2021-01-30
 
