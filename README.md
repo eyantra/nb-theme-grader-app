@@ -24,8 +24,14 @@ The Grader App has been tested **only** on the following **64 bit OS**:
 
 Following are the contents:
 
+- **finale_grader_app** - This folder consists the binary files of ***Finale*** Grader App for **Linux**, **Windows** and **Macintosh** OS.
+  - Latest version is **[v1.3.0](https://github.com/eyantra/nb-theme-grader-app/releases/latest)**
+    - **`NB_Finale_Grader_App-1.3.0.AppImage`**
+    - **`NB_Finale_Grader_App-1.3.0.exe`**
+    - **`NB_Finale_Grader_App-1.3.0.dmg`** (built and tested on ***macOS Catalina v10.15.7***)
+
 - **task_6_grader_app** - This folder consists the binary files of ***Task 6*** Grader App for **Linux**, **Windows** and **Macintosh** OS.
-  - Latest version is **[v1.2.0](https://github.com/eyantra/nb-theme-grader-app/releases/latest)**
+  - Latest version is **[v1.2.0](https://github.com/eyantra/nb-theme-grader-app/releases/tag/v1.2.0)**
     - **`NB_Task6_GUI-1.2.0_linux.AppImage`**
     - **`NB_Task6_GUI-1.2.0_win.exe`**
     - **`NB_Task6_GUI-1.2.0_mac.dmg`** (built and tested on ***macOS Catalina v10.15.7***)

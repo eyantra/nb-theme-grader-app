@@ -6,6 +6,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ---
 
+## 1.3.0 - 2021-03-27
+
+### Added
+
+- App for *auto grading* of *Finale*, tested on three OS - Linux, Windows and Macintosh.
+
+<br>
+
+---
+
 ## 1.2.0 - 2021-02-28
 
 ### Added
